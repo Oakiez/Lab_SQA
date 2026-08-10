@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.lab6.QuadraticEquationTest" time="0.114" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="26"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS874"/>
+    <property name="java.class.path" value="D:\Study\Junior\SQA\Lab6\Lab6_673380425-2\target\test-classes;D:\Study\Junior\SQA\Lab6\Lab6_673380425-2\target\classes;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\zenin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\zenin\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\zenin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="26"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-26.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\zenin\AppData\Local\Temp\surefire17143464895784854734\surefirebooter-20260810214324421_3.jar C:\Users\zenin\AppData\Local\Temp\surefire17143464895784854734 2026-08-10T21-43-24_294-jvmRun1 surefire-20260810214324421_1tmp surefire_0-20260810214324421_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Study\Junior\SQA\Lab6\Lab6_673380425-2\target\test-classes;D:\Study\Junior\SQA\Lab6\Lab6_673380425-2\target\classes;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\zenin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\zenin\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\zenin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\zenin\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\zenin"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-04-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-26.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Study\Junior\SQA\Lab6\Lab6_673380425-2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\zenin\AppData\Local\Temp\surefire17143464895784854734\surefirebooter-20260810214324421_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="26.0.1+8-34"/>
+    <property name="user.name" value="zenin"/>
+    <property name="stdout.encoding" value="MS874"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\zenin\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\zenin\AppData\Local\Temp\"/>
+    <property name="java.version" value="26.0.1"/>
+    <property name="user.dir" value="D:\Study\Junior\SQA\Lab6\Lab6_673380425-2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="MS874"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-26.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PowerShell\7;c:\Users\zenin\.vscode\extensions\vadimcn.vscode-lldb-1.12.2\bin;c:\Users\zenin\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\zenin\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\apache-maven-3.9.16\bin;D:\OracleDatabase\dbhomeXE\bin;D:\Database\dbhomeXE\bin;D:\oracle\product\10.2.0\db_1\bin;C:\Program Files (x86)\Oracle\jre\1.1.7\bin;D:\app\client\zenin\product\12.1.0\client_1\bin;D:\Education\Database\dbhomeXE\bin;D:\oracle\product\10.2.0\db_2\bin;C:\Program Files\glzr.io\GlazeWM\\cli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Program Files\YASB\;C:\Program Files\whkd\bin\;C:\Program Files\Git\cmd;D:\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-26.0.1\bin;C:\Program Files\PowerShell\7\;E:\app\oakiez\product\dbhomeXE\bin;D:\OracleDatabase\dbhomeXE\bin;D:\Database\dbhomeXE\bin;D:\oracle\product\10.2.0\db_1\bin;C:\Program Files (x86)\Oracle\jre\1.1.7\bin;D:\app\client\zenin\product\12.1.0\client_1\bin;D:\Education\Database\dbhomeXE\bin;D:\oracle\product\10.2.0\db_2\bin;C:\Program Files\glzr.io\GlazeWM\\cli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Program Files\PowerShell\7\;C:\Program Files\YASB\;C:\Program Files\komorebi\bin\;C:\Program Files\whkd\bin\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;D:\nodejs\;C:\Users\zenin\develop\flutter\bin;C:\Users\zenin\.console-ninja\.bin;C:\Users\zenin\AppData\Local\Microsoft\WindowsApps;C:\Users\zenin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zenin\AppData\Local\GitHubDesktop\bin;C:\Users\zenin\AppData\Local\spicetify;C:\Users\zenin\.dotnet\tools;C:\Users\zenin\AppData\Local\Microsoft\WindowsApps;C:\Users\zenin\.config\cava;C:\Users\zenin\AppData\Local\Microsoft\WinGet\Packages\Fastfetch-cli.Fastfetch_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\zenin\.dotnet\tools;C:\Users\zenin\AppData\Roaming\npm;C:\Users\zenin\develop\flutter\bin;C:\Users\zenin\develop\flutter\bin;C:\Users\zenin\.local\bin;;C:\Users\zenin\AppData\Local\Programs\Ollama;c:\Users\zenin\.vscode\extensions\vscjava.vscode-java-debug-0.59.0\bundled\scripts\noConfigScripts;C:\Users\zenin\.console-ninja\.bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="MS874"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="26.0.1+8-34"/>
+    <property name="stdin.encoding" value="MS874"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="70.0"/>
+  </properties>
+  <testcase name="determineRootNature_limitedEntryDecisionTable(int, int, int, RootNature)[1]" classname="com.lab6.QuadraticEquationTest" time="0.044"/>
+  <testcase name="determineRootNature_limitedEntryDecisionTable(int, int, int, RootNature)[2]" classname="com.lab6.QuadraticEquationTest" time="0.001"/>
+  <testcase name="determineRootNature_limitedEntryDecisionTable(int, int, int, RootNature)[3]" classname="com.lab6.QuadraticEquationTest" time="0.001"/>
+  <testcase name="determineRootNature_limitedEntryDecisionTable(int, int, int, RootNature)[4]" classname="com.lab6.QuadraticEquationTest" time="0.0"/>
+</testsuite>
